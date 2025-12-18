@@ -1,7 +1,7 @@
 ## Hi there 👋 I am 'Sundar Krishnamoorthy'
 
 SELECT * FROM future WHERE insight = 'Impactful';
-## Specializing in high-velocity data and modern analytical frameworks.
+Specializing in high-velocity data and modern analytical frameworks.
 
 - 🔭 I’m currently working on the city: Chennai, India
 - 🌱 I’m currently learning the advanced project on automation by integrating the AI tools
